@@ -30,6 +30,8 @@
     SOFTWARE.
 #>
 # Write Progress variables
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Confirm:$false
+Set-PowerCLIConfiguration -Scope AllUsers -ParticipateInCEIP $false
 $Activity = "Backing up the ESXi Host firmware to your destination"
 $ID = 1
 $Task = "Please wait, backing up..."
