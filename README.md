@@ -25,3 +25,23 @@ You can check your path where you wanted to place your backups if the ESXi host 
 ![Check for the files](https://github.com/falkobanaszak/backup-esxi-host-configuration/blob/master/check_for_files.png)
 
 You can get the script here: [Backup ESXi Host Configuration](https://github.com/falkobanaszak/backup-esxi-host-configuration/blob/master/Backup_ESXi_Host_Configuration.ps1)
+
+## ☕ Support the Developer
+
+If you find **ESXi host configuration with VMware PowerCLI** useful for your daily work or it saved you some time, you can show your support by buying me a coffee! It helps keep the project alive and fuels future updates.
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/funkyboyz" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://ko-fi.com/funkyboyz" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-F16063?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+</a>
+
+</div>
+
+> 💡 **Note:** This project is free and open-source. Donations are optional but highly appreciated! ❤️
